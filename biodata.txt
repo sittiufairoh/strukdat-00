@@ -1,0 +1,14 @@
+		BIODATA
+===========================================
+
+Nama		: Sitti Ufairoh Azzahra
+Tanggal Lahir	: 23 Juli 2000
+Asal Daerah	: Purwakarta
+Univ		: Universitas Padjadjaran
+Prodi		: Teknik Informatika
+Angkatan	: 2018
+NPM		: 140810180002
+Kelas		: B
+Hobby		: Ngoleksi Barang Ungu :)
+
+===========================================
